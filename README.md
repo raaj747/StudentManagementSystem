@@ -1,35 +1,24 @@
-StudentManagementSystem
+## Project Structure
+
+```text
+StudentManagementSystem/
 │
-├── .idea
+├── .idea/
 │
-├── src
-│   └── main
-│       ├── java
-│       │   └── org.example
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── org.example/
 │       │       └── Main.java
 │       │
-│       └── resources
+│       └── resources/
 │           ├── users.txt
 │           ├── students.txt
 │           └── courses.txt
 │
-├── target
+├── target/
 │
 ├── pom.xml
+│
 └── StudentManagementSystem.iml
-
-1.Main.Java
-src
-└── main
-    └── java
-        └── org.example
-            └── Main.java
-
-
-
-2. users.txt
-src
-└── main
-    └── resources
-        └── users.txt
-            
+```
